@@ -1,7 +1,6 @@
 # Airfleets.net Full Fleet Scraper (Selenium Version)
 
-This project scrapes **every aircraft family** and **every aircraft type** from  
-https://www.airfleets.net/listing/
+This project scrapes **every aircraft family** and **every aircraft type**   
 
 It handles:
 - Automatic discovery of all aircraft families
