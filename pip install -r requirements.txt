@@ -1,0 +1,14 @@
+
+### 2. Install ChromeDriver
+
+Download the matching ChromeDriver version:
+
+👉 https://googlechromelabs.github.io/chrome-for-testing/
+
+Place the `chromedriver` binary in your PATH  
+(or in the same folder as this project).
+
+---
+
+## ▶️ Running the scraper
+
